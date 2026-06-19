@@ -114,9 +114,7 @@ Built in **Power BI Desktop** with 3 pages:
 - **Page 2:** Pay Gap Deep Dive — job level trends, scatter plots, role-wise gap
 - **Page 3:** Underpaid Employee Analysis — actionable employee-level table
 
-📎 **Live Dashboard:** [View on Power BI Service](#) *(link after publishing)*
 
-See [`dashboard/powerbi_guide.md`](dashboard/powerbi_guide.md) for full build instructions.
 
 ---
 
